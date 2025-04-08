@@ -1,2 +1,8 @@
 # lmkd
 ro.lmk.swap_compression_ratio=2
+
+# Props Project Infinity
+ro.infinity.soc=Snapdragon 8 Gen 3
+ro.infinity.battery=5400 mAh
+ro.infinity.display=1440 x 3168, 120 Hz
+ro.infinity.camera=32MP, 50MP + 48MP + 64MP
